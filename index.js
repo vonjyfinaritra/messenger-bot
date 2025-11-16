@@ -20,8 +20,8 @@ const db = admin.firestore();
 // ----------------------------------------------------
 // 2) CONFIG MESSENGER
 // ----------------------------------------------------
-const PAGE_ACCESS_TOKEN = "TON_PAGE_ACCESS_TOKEN_ICI";
-const VERIFY_TOKEN = "TON_VERIFY_TOKEN_ICI";
+const PAGE_ACCESS_TOKEN = "EAATXosgc8QgBP4t2bTevFxuEcvvqA3v7IeDO1HKtKjStsEU93U6jb4Me15F5pyS0cxnnPoHBXjtWOnbbsgi4BCXRKAfBjsvbblFQu8msZBUt0DgdHSyq2woWkk5AkUn4TFOPNZAzNYFqH4DQ3nU28BNIJ1Fy6l4dev5S4SU57QnpP5mfqUy6pFaBuywgLtxgQSQPP4vQZDZD";
+const VERIFY_TOKEN = "VONJYKELY";
 
 // ----------------------------------------------------
 // 3) WEBHOOK VERIFICATION (OBLIGATOIRE POUR META)
